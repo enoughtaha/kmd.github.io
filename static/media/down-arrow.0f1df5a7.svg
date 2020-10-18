@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="18px" viewBox="0 0 30 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Custom-Preset" transform="translate(-968.000000, -1213.000000)" fill="#9DFFE5" fill-rule="nonzero">
+            <g id="down-arrow" transform="translate(968.000000, 1213.000000)">
+                <path d="M28.611,7.385 L17.6,16.737 C16.855,17.37 15.933,17.686 15.011,17.686 C14.09,17.686 13.169,17.37 12.422,16.737 L1.411,7.385 C-0.273,5.955 -0.479,3.431 0.951,1.747 C2.382,0.063 4.906,-0.143 6.59,1.288 L15.011,8.439 L23.431,1.288 C25.117,-0.142 27.64,0.064 29.07,1.747 C30.5,3.431 30.294,5.955 28.611,7.385 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
